@@ -2,8 +2,8 @@
   <div class="navbar">
     <hamburger :is-active="sidebar.opened" class="hamburger-container" @toggleClick="toggleSideBar" />
     <div class="app-breadcrumb">
-      江苏传智播客教育科技股份有限公司
-      <span class="breadBtn">体验版</span>
+      金鑫科技有限公司
+      <span class="breadBtn">测试版</span>
     </div>
     <!-- <breadcrumb class="breadcrumb-container" /> -->
 
